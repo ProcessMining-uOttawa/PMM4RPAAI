@@ -1,0 +1,9 @@
+section,key,value,cases,activity_instances,min_duration,median_duration,average_duration,max_duration,total_duration,automation_rate
+Event,Activity,Test Repair,1102,1508,5 mins,8 mins,7.49 mins,10 mins,188.23,20
+Event,Activity,Analyze Defect,1104,1104,5 mins,8 mins,7.57 mins,10 mins,139.28,10
+Event,Activity,Register,1104,1104,0 secs,0 secs,0 secs,0 secs,0,5
+Event,Activity,Inform User,1102,1102,0 secs,0 secs,0 secs,0 secs,0,0
+Event,Activity,Archive Repair,1000,1000,0 secs,0 secs,0 secs,0 secs,0,0
+Event,Activity,Repair (Simple),484,785,5 mins,9 mins,10 mins,20 mins,130.87,0
+Event,Activity,Repair (Complex),659,725,0 secs,17 mins,23.02 mins,50 mins,278.13,50
+Event,Activity,Restart Repair,293,406,0 secs,0 secs,0 secs,0 secs,0,0
